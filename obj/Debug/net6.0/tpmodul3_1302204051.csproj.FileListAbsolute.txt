@@ -13,3 +13,18 @@ E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\tpmodul3_1302204051\o
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.pdb
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.genruntimeconfig.cache
 E:\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\Modul 2\tpmodul3_1302204051\obj\Debug\net6.0\ref\tpmodul3_1302204051.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\bin\Debug\net6.0\tpmodul3_1302204051.exe
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\bin\Debug\net6.0\tpmodul3_1302204051.deps.json
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\bin\Debug\net6.0\tpmodul3_1302204051.runtimeconfig.json
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\bin\Debug\net6.0\tpmodul3_1302204051.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\bin\Debug\net6.0\tpmodul3_1302204051.pdb
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.csproj.AssemblyReference.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.AssemblyInfoInputs.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.AssemblyInfo.cs
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.csproj.CoreCompileInputs.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\refint\tpmodul3_1302204051.dll
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.pdb
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\tpmodul3_1302204051.genruntimeconfig.cache
+E:\SEMESTER 4\Konstruksi Perangkat Lunak\Tugas Pendahuluan\Modul 3\tpmodul3_1302204051\obj\Debug\net6.0\ref\tpmodul3_1302204051.dll
