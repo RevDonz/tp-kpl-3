@@ -8,8 +8,8 @@ class MainClass
     {
         System.Console.WriteLine(KodePos.getKodePos(KodePos.Kelurahan.Batununggal) + "\n");
 
-        MesinPintu mesin1 = new MesinPintu();
+        DoorMachine mesin1 = new DoorMachine();
         Console.WriteLine("State Saat ini : " + mesin1.CurrentState);
-        mesin1.aksiYangDilakukan(MesinPintu.Trigger.BukaPintu);
+        mesin1.activateTrigger(DoorMachine.Trigger.BukaPintu);
     }
 }

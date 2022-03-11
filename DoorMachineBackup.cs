@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace tpmodul3_1302204051
 {
 
-    internal class DoorMachine
+    internal class DoorMachineBackup
     {
         public DoorState prevState;
         public DoorState nextState;
@@ -18,17 +18,17 @@ namespace tpmodul3_1302204051
 
         public DoorState currentState;
 
-        public DoorMachine(DoorState prevState, DoorState nextState, Trigger trigger)
+        public DoorMachineBackup(DoorState prevState, DoorState nextState, Trigger trigger)
         {
             this.prevState = prevState;
             this.nextState = nextState;
             this.trigger = trigger;
         }
 
-        DoorMachine[] doorMachines =
+        DoorMachineBackup[] doorMachines =
         {
-            new DoorMachine(DoorState.Terbuka, DoorState.Terkunci, Trigger.KunciPintu),
-            new DoorMachine(DoorState.Terkunci, DoorState.Terbuka, Trigger.BukaPintu)
+            new DoorMachineBackup(DoorState.Terbuka, DoorState.Terkunci, Trigger.KunciPintu),
+            new DoorMachineBackup(DoorState.Terkunci, DoorState.Terbuka, Trigger.BukaPintu)
         };
 
         public DoorState getNextState(DoorState prevState, Trigger trigger)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tpmodul3_1302204051
 {
-    internal class MesinPintu
+    internal class DoorMachine
     {
         public enum DoorState { Terkunci, Terbuka };
         public enum Trigger { BukaPintu, KunciPintu };
@@ -51,7 +51,7 @@ namespace tpmodul3_1302204051
             return StateAkhir;
         }
 
-        public void aksiYangDilakukan(Trigger trigger)
+        public void activateTrigger(Trigger trigger)
         {
             CurrentState = getNextState(CurrentState, trigger);
 
@@ -64,7 +64,7 @@ namespace tpmodul3_1302204051
             }
         }
 
-        public MesinPintu()
+        public DoorMachine()
         {
 
         }
