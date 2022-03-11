@@ -6,8 +6,10 @@ class MainClass
 {
     static void Main(string[] args)
     {
-        // Display the number of command line arguments.
-        KodePos kode = new KodePos();
-        Console.WriteLine(kode.getKodePos(KodePos.Kelurahan.Batununggal));
+        System.Console.WriteLine(KodePos.getKodePos(KodePos.Kelurahan.Batununggal) + "\n");
+
+        MesinPintu mesin1 = new MesinPintu();
+        Console.WriteLine("State Saat ini : " + mesin1.CurrentState);
+        mesin1.aksiYangDilakukan(MesinPintu.Trigger.BukaPintu);
     }
 }
